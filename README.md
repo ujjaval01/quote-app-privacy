@@ -33,7 +33,7 @@ This app does not collect, store, or share any personal data.
 All favorites are stored locally on the user's device.
 
 Read full Privacy Policy here:  
-👉 https://ujjaval01.github.io/quote-compose-privacy/
+👉 [https://ujjaval01.github.io/quote-compose-privacy/](https://ujjaval01.github.io/quote-app-privacy/)
 
 ---
 
