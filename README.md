@@ -17,13 +17,11 @@ Daily Quotes is a modern Android application built with Jetpack Compose that del
 
 ---
 
-## 🛠 Built With
+## 🔺 Download Here
 
-- Kotlin
-- Jetpack Compose
-- Material 3
-- MVVM Architecture
-- Local JSON Data Storage
+👉[Website Link](https://www.devujvl.in/quote.html)
+<br>
+👉[App Link](https://play.google.com/store/apps/details?id=com.uv.quotecomposeapp&pcampaignid=web_share)
 
 ---
 
@@ -33,7 +31,7 @@ This app does not collect, store, or share any personal data.
 All favorites are stored locally on the user's device.
 
 Read full Privacy Policy here:  
-👉 [https://ujjaval01.github.io/quote-compose-privacy/](https://ujjaval01.github.io/quote-app-privacy/)
+👉 [Privacy Policy Link](https://ujjaval01.github.io/quote-app-privacy/)
 
 ---
 
@@ -46,4 +44,4 @@ ujvl.dev@gmail.com
 
 ## 📱 Version
 
-Current Version: 1.0
+Current Version: 1.1.0
